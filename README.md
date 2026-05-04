@@ -79,4 +79,4 @@ This project is for educational purposes only and should not be used for real me
 
 ## 🙌 Author
 
-Joshua M
+Jenis Joshua Thomas M
